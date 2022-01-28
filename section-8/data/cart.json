@@ -1,13 +1,1 @@
-{
-    "products": [
-        {
-            "id": "12345",
-            "qty": 2
-        },
-        {
-            "id": "0.15059935910757982",
-            "qty": 2
-        }
-    ],
-    "totalPrice": 138
-}
+{"products":[],"totalPrice":0}
